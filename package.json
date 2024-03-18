@@ -1,0 +1,18 @@
+{
+  "name": "tea_tesnet_katoumegumi",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tea-testnet",
+    "give me airdrop pls"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shell-oooooyoung": "^1.1.9"
+  }
+}
